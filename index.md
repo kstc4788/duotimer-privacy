@@ -1,6 +1,6 @@
 # Privacy Policy - DuoTimer
 
-Last updated: 2025-01-01
+Last updated: 2025-12-25
 
 This Privacy Policy explains how DuoTimer ("the App") handles information when you use the App.
 
